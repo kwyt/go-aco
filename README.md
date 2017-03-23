@@ -2,15 +2,14 @@
 
 Implementation of Ant Colony Optimization algorithms using golang
 
-#How to build
+# How to build
 
 go build -o go-aco
 
-#Usage
+# Usage
 
 ./go-aco -help
 
-#Result example
+# Result example
 
-
-![result](https://dl.dropboxusercontent.com/u/40913104/result.png "result")
+![result](https://raw.githubusercontent.com/kwyt/go-aco/images/result.png "result")
